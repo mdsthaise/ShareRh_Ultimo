@@ -1,0 +1,15 @@
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\bin\Debug\netcoreapp3.1\Minha1Conexao.Data.deps.json
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\bin\Debug\netcoreapp3.1\Minha1Conexao.Data.runtimeconfig.json
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\bin\Debug\netcoreapp3.1\Minha1Conexao.Data.runtimeconfig.dev.json
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\bin\Debug\netcoreapp3.1\Minha1Conexao.Data.dll
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\bin\Debug\netcoreapp3.1\Minha1Conexao.Data.pdb
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\bin\Debug\netcoreapp3.1\Minha1Conexao.Domain.dll
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\bin\Debug\netcoreapp3.1\Minha1Conexao.Domain.pdb
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\obj\Debug\netcoreapp3.1\Minha1Conexao.Data.csprojAssemblyReference.cache
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\obj\Debug\netcoreapp3.1\Minha1Conexao.Data.AssemblyInfoInputs.cache
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\obj\Debug\netcoreapp3.1\Minha1Conexao.Data.AssemblyInfo.cs
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\obj\Debug\netcoreapp3.1\Minha1Conexao.Data.csproj.CoreCompileInputs.cache
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\obj\Debug\netcoreapp3.1\Minha1Conexao.Data.csproj.CopyComplete
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\obj\Debug\netcoreapp3.1\Minha1Conexao.Data.dll
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\obj\Debug\netcoreapp3.1\Minha1Conexao.Data.pdb
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Data\obj\Debug\netcoreapp3.1\Minha1Conexao.Data.genruntimeconfig.cache

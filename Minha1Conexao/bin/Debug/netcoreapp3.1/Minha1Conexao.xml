@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Minha1Conexao</name>
+    </assembly>
+    <members>
+        <member name="M:Minha1Conexao.Controllers.AlunoController.Get">
+             <summary>
+             Retorna um aluno pelo Id.
+             </summary>
+             <param name="id">Identificador do aluno.</param>
+             <returns>Mais uma descrição..</returns>
+             <remarks>
+             Sample request:
+            
+                 Get /api/aluno/1
+            
+             </remarks>
+             <response code="200">Retorna o aluno com o identificador informado.</response>
+             <response code="400">Se acontecer alguma exceção não tratada.</response>
+        </member>
+    </members>
+</doc>

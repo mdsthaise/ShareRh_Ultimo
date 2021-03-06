@@ -1,0 +1,9 @@
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Domain\bin\Debug\netcoreapp3.1\Minha1Conexao.Domain.deps.json
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Domain\bin\Debug\netcoreapp3.1\Minha1Conexao.Domain.dll
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Domain\bin\Debug\netcoreapp3.1\Minha1Conexao.Domain.pdb
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Domain\obj\Debug\netcoreapp3.1\Minha1Conexao.Domain.csprojAssemblyReference.cache
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Domain\obj\Debug\netcoreapp3.1\Minha1Conexao.Domain.AssemblyInfoInputs.cache
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Domain\obj\Debug\netcoreapp3.1\Minha1Conexao.Domain.AssemblyInfo.cs
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Domain\obj\Debug\netcoreapp3.1\Minha1Conexao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Domain\obj\Debug\netcoreapp3.1\Minha1Conexao.Domain.dll
+C:\Users\thaise.silva\Downloads\Minha1Conexao-aula\Minha1Conexao-master\Minha1Conexao.Domain\obj\Debug\netcoreapp3.1\Minha1Conexao.Domain.pdb
